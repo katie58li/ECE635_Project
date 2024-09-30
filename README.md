@@ -28,6 +28,7 @@ The only hardware needed is a laptop/computer with a CUDA-enabled GPU, or at the
 
 
 **Team Responsibilities**
+
 Katie: Model setup and training, networking, writing paper
 
 Jay: Gathering and preprocessing datasets, research, model testing, writing paper
