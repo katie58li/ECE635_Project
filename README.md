@@ -33,6 +33,7 @@ Jay: Gathering and preprocessing datasets, research, model testing, writing pape
 
 
 **References**
+
 LangChain Tutorial: https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/
 
 HuggingGPT: https://arxiv.org/pdf/2303.17580 
