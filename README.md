@@ -3,7 +3,7 @@
 
 **Motivation**
 
-We have both taken machine learning courses during our undergraduate studies and enjoyed learning about the field. We would like to take a further step into utilizing the skills we have acquired and further improving them, while also exploring a more specific machine learning application through LLM agents. We believe this specific project will help us expand our understanding and give us the opportunity to be creative in our problem-solving. As popular LLMs become increasingly popular and useful, such as ChatGPT and Gemini, understanding how to use and incorporate them into projects is an incredibly valuable skill to learn. LLMs could be especially useful in smart home scenarios, as it could take in different data types from multiple devices/sensors to make high-level decisions: a concept we’d like to demonstrate through this project.
+We have both taken machine learning courses during our undergraduate studies and enjoyed learning about the field. We would like to take a further step into utilizing the skills we have acquired and further improving them, while also exploring a more specific machine learning application through LLM agents. We believe this specific project will help us expand our understanding and give us the opportunity to be creative in our problem-solving. As LLMs become increasingly popular and useful, such as ChatGPT and Gemini, understanding how to use and incorporate them into projects is an incredibly valuable skill to learn. LLMs could be especially useful in smart home scenarios, as it could take in different data types from multiple devices/sensors to make high-level decisions: a concept we’d like to demonstrate through this project.
 
 
 **Design Goals**
