@@ -19,9 +19,6 @@ The model should be able to use multiple types of data (ex: images, audio, smoke
 The system should be able to notify the user/house owner if indeed a fire is detected
 
 
-**System Block Diagram**
-
-
 **Software/Hardware Requirements**
 
 The only hardware needed is a laptop/computer with a CUDA-enabled GPU, or at the very least, one that can access google colab. For software, the system will be run on Python using LLM libraries and multiple datasets for smoke detection, fire images, and any other fire detection methods
@@ -32,9 +29,6 @@ The only hardware needed is a laptop/computer with a CUDA-enabled GPU, or at the
 Katie: Model setup and training, networking, writing paper
 
 Jay: Gathering and preprocessing datasets, research, model testing, writing paper
-
-
-**Project Timeline**
 
 
 
